@@ -21,11 +21,10 @@ h6 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 80px;
 }
 h2 {
   font-size: 44px;
-  padding-top: 150px;
 }
 p {
   font-weight: normal;
@@ -67,8 +66,16 @@ p {
   border-radius: 4px;
   padding: 15px 30px;
 }
+.btn-branding-launch:hover {
+  transition: all 200ms ease-in-out;
+  background: var(--branding-color);
+  color: white;
+}
 .project-desciption {
   padding: 200px 60px;
   padding: 0;
   text-align: center;
+}
+.project-desciption h2 {
+  padding-top: 150px;
 }
