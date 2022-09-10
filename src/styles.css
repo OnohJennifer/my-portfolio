@@ -98,6 +98,17 @@ footer .social-links a:hover {
   color: white;
   background: var(--branding-color);
 }
+footer a:hover {
+  color: var(--branding-color);
+}
+
+.navbar-toggler {
+  background: white;
+}
+
+.nav-link {
+  color: white;
+}
 
 .hero {
   background: #f3e9fc;
@@ -126,6 +137,10 @@ footer .social-links a:hover {
   font-size: 18px;
   line-height: 27px;
   padding: 15px 30px;
+}
+.btn-branding:hover {
+  background: white;
+  color: var(--branding-color);
 }
 .btn-branding-launch {
   font-size: 18px;
