@@ -101,7 +101,11 @@ footer .social-links a:hover {
 footer a:hover {
   color: var(--branding-color);
 }
-
+.navbar-brand {
+  font-family: "Smooch", cursive;
+  font-size: 35px;
+  color: #ffcbcb;
+}
 .navbar-toggler {
   background: white;
 }
