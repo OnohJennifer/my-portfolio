@@ -73,7 +73,9 @@ footer .contact-box {
 footer .contact-box p {
   margin: 0;
 }
-
+.about-footer {
+  padding: 30px 120px;
+}
 footer .email-link {
   text-decoration: none;
   color: black;
@@ -189,4 +191,10 @@ footer a:hover {
 
 .main {
   padding: 45px 20px;
+}
+.about-profile-image {
+  border-radius: 100%;
+}
+.quote {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
