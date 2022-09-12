@@ -118,10 +118,11 @@ footer a:hover {
   background: #f3e9fc;
   text-align: center;
   padding: 60px 20px;
+  margin-top: 20px;
 }
 
 .hero p {
-  font-size: 36px;
+  font-size: 25px;
   font-weight: bold;
   margin: 0;
   color: #272142;
